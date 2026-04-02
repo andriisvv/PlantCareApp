@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PlantCare</string>
+
+    <!-- Login -->
+    <string name="login_title">PlantCare</string>
+    <string name="login_subtitle">Доглядайте за рослинами з любов\'ю</string>
+    <string name="hint_login">Логін</string>
+    <string name="hint_password">Пароль</string>
+    <string name="btn_login">Увійти</string>
+    <string name="error_empty_fields">Заповніть усі поля</string>
+    <string name="error_invalid_credentials">Невірний логін або пароль</string>
+
+    <!-- Navigation -->
+    <string name="nav_plants">Рослини</string>
+    <string name="nav_guides">Довідник</string>
+    <string name="nav_profile">Профіль</string>
+
+    <!-- Plants -->
+    <string name="my_plants">Мої рослини</string>
+    <string name="search_plants_hint">Пошук рослини…</string>
+    <string name="add_plant">Додати рослину</string>
+    <string name="plant_name">Назва рослини</string>
+    <string name="plant_species">Вид рослини</string>
+    <string name="plant_date">Дата посадки</string>
+    <string name="condition_healthy">Здорова</string>
+    <string name="condition_attention">Потребує уваги</string>
+    <string name="condition_sick">Хвора</string>
+    <string name="last_watered">%s</string>
+    <string name="days_ago">%d дн. тому</string>
+    <string name="today_text">Сьогодні</string>
+    <string name="btn_save">Зберегти</string>
+    <string name="btn_cancel">Скасувати</string>
+    <string name="btn_delete">Видалити</string>
+    <string name="plant_added">Рослину додано</string>
+    <string name="plant_deleted">Рослину видалено</string>
+    <string name="fill_required">Заповніть обов\'язкові поля</string>
+    <string name="no_plants">Ще немає рослин</string>
+
+    <!-- Filters -->
+    <string name="filter_all">Всі</string>
+    <string name="filter_healthy">Здорові</string>
+    <string name="filter_attention">Увага</string>
+    <string name="filter_sick">Хворі</string>
+
+    <!-- Sort -->
+    <string name="sort_by_name">За назвою (А-Я)</string>
+    <string name="sort_by_date_new">За датою додавання (нові)</string>
+    <string name="sort_by_date_old">За датою додавання (старі)</string>
+    <string name="sort_by_last_watered">За останнім поливом</string>
+</resources>
